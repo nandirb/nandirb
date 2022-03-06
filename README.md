@@ -2,18 +2,18 @@
 <br>
  <h1 align="center">Hi 👋 I'm Nandir Batmunkh</h1>
  <h3 align="center">Mobile and Web Application Developer | Content Creator </h3>
-
 <br>
 
-- 🔭 I’m currently working on **React Native mobile developement**
+🔭 I’m currently working on **React Native mobile developement**
 
-- 🌱 I’m currently learning **Game development, Cross platform**
+🌱 I’m currently learning **Game development, Cross platform**
 
-- 👯 I’m looking to collaborate on **GitHub**
+👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **Mobile development, React, Javascript**
-
+💬 Ask me about **Mobile development, React, Javascript**
+<br>
 <h3 align="left">🤝 Connect with me</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/nandir-batmunkh-794995202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradumnasaraf" height="30" width="40" /></a>
 <!-- <a href="https://dev.to/pradumnasaraf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/90956475/150676257-19e73355-3f51-42b9-9001-d4ed5b08c977.png" alt="Dev.to" height="30" width="30" /></a> -->
