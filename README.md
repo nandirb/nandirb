@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **React Native mobile developement**
 
-🌱 I’m currently learning **Game development, Cross platform**
+<!-- 🌱 I’m currently learning **Game development, Cross platform** -->
 
 👯 I’m looking to collaborate on **GitHub**
 
