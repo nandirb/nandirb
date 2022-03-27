@@ -1,7 +1,7 @@
 
 <br>
  <h1 align="center">Hi 👋 I'm Nandir Batmunkh</h1>
- <h3 align="center">Mobile and Web Application Developer | Content Creator </h3>
+<!--  <h3 align="center">Mobile and Web Application Developer | Content Creator </h3> -->
 <br>
 
 🔭 I’m currently working on **React Native mobile developement**
